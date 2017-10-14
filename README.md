@@ -1,0 +1,1 @@
+# mg-wpcli-bashes
