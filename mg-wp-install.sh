@@ -19,7 +19,7 @@ wp config create --dbname=$DATABASENAME --dbuser=root --dbpass=root --force
 
 #Install the downloaded WordPress
 echo "Installing WordPress :)"
-wp core install --admin_user=mgelves --admin_password=mauricio --admin_email=mg@maugelves.com --skip-email --url=$SITE.dev --title=$SITE
+wp core install --admin_user=admin --admin_password=admin --admin_email=your@email.com --skip-email --url=$SITE.dev --title=$SITE
 #!/bin/bash
 
 exit
