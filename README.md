@@ -7,6 +7,6 @@ This command creates a database, downloads the latest WordPress version in spani
 `$ mg-wp-install <project name>`
 
 **WordPress Credentials**
-User: _admin_
-pass: _admin_
+User: _admin_   
+pass: _admin_   
 _(it's for development purposes, if you want to change the credentials modify the bash file with your data)_
